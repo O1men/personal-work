@@ -1,3 +1,4 @@
+网页版
 1.创建库（Repository）
 
 2.将文件添加到版本库中
@@ -7,3 +8,20 @@
 建议下载Visual Studio Code代替记事本
 
 3.在库中编辑文件
+
+
+
+
+
+github desktop使用：
+1.下载
+
+2.配置和自定义
+可以连接或删除 GitHub 或 GitHub Enterprise 上的帐户、选择默认文本编辑器或 shell、编辑 Git 配置、更改 GitHub Desktop 的外观、
+自定义系统对话框，以及在 GitHub Desktop Options（选项）窗口中设置隐私首选项。
+
+3.通过github desktop参与项目
+file——创建、添加、克隆仓库
+管理分支
+
+
